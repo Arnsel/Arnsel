@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andreas</h1>
-<h3 align="center">Former legal counsel, now passionate full stack developer from Denmark</h3>
+<h3 align="center">Former legal counsel, now passionate full stack developer</h3>
 
 - 🌱 I’m currently learning **React**
 
