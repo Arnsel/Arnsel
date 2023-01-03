@@ -5,7 +5,7 @@
 <p> Learning : Full-Stack ⚡ | React 🔥 </p>
 <p> Hobbies : Books 📚 | Bouldering 🧗‍♂️ </p>
 <p>  Ask me about : Anything!, I'm happy to help ✌️ </p>
-<p>  Fun fact : I love tabletop games and my coffee should be scorching hot ☕❤️ </p>
+<p>  Fun fact : I love dogs, tabletop games and my coffee should be scorching hot ☕❤️ </p>
 <p>  Pronouns : He/Him/His 😇 </p>
 <p> Reach me: arnsel@pm.me 📫 </p>
 
