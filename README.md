@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andreas</h1>
 <h3 align="center">Former legal counsel, now passionate full stack developer</h3>
 
-    Working : Mobile-App & Web Development 📱
-    Learning : Full-Stack ⚡ | React 🔥
-    Hobbies : Books 📚 | Bouldering 🧗‍♂️ 
-    Ask me about : Anything!, I'm happy to help ✌️
-    Fun fact : I love tabletop games and my coffee should be scorching hot ☕❤️
-    Pronouns : He/Him/His 😇
-    Reach me: arnsel@pm.me 📫
+<p> Working : Mobile-App & Web Development 📱 </p>
+<p> Learning : Full-Stack ⚡ | React 🔥 </p>
+<p> Hobbies : Books 📚 | Bouldering 🧗‍♂️ </p>
+<p>  Ask me about : Anything!, I'm happy to help ✌️ </p>
+<p>  Fun fact : I love tabletop games and my coffee should be scorching hot ☕❤️ </p>
+<p>  Pronouns : He/Him/His 😇 </p>
+<p> Reach me: arnsel@pm.me 📫 </p>
 
 
 <h3 align="left">Connect with me:</h3>
